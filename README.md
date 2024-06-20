@@ -114,6 +114,11 @@ the following dependencies to run the project:
     "redux": "^5.0.1",
     "socket.io-client": "^4.7.2"
 Step 7: Run npm start to start the frontend.)
-
 ```
 
+### Mô tả dự án - Description project
+
+```js
+An intelligent chatbot can be used on Facebook 
+and the website for real-time conversations.
+```
