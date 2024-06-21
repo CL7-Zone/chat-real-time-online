@@ -122,3 +122,65 @@ Step 7: Run npm start to start the frontend.)
 An intelligent chatbot can be used on Facebook 
 and the website for real-time conversations.
 ```
+
+
+### Học NodeJS cùng tôi - Learn NodeJS with me
+
+```js
+Node js là gì?
+
+-> Node js là 1 nền tảng được thiết kế bằng mã javascript
+Chạy trên môi trường engine v8 của google
+
+I/O là gì?
+
+-> I/O (input/output) là mô hình xử lý không đồng bộ, 
+sẽ truy cập mọi thứ bên ngoài ứng dụng, 
+cho phép xử lý nhiều yêu cầu HTTP cùng lúc. 
+I/O sẽ được tải vào bộ nhớ máy để chạy 
+chương trình sau khi khởi động ứng dụng.
+
+Ưu điểm của Node.js là gì?
+
+-> Khả năng mở rộng lớn bằng cách sử dụng module và thư viện, 
+đáp ứng yêu cầu của các ứng dụng web lớn.
+Tốc độ xử lý nhanh với event loop.
+Phù hợp với những ứng dụng chạy thời gian thực vì code chạy bất đồng bộ
+Có thể sử dụng cùng một ngôn ngữ JavaScript cho cả phía máy chủ và khách hàng.
+Cộng đồng lớn với nhiều thư viện mã nguồn.
+```
+```js
+Lập trình hướng sự kiện (event-driven) có nghĩa là gì?
+
+-> lập trình hướng sự kiện có nghĩa là thiết kế những 
+hành động nào đó trên giao diện của ứng dụng 
+(ví dụ như: xây dựng ứng dụng nhắn tin cho người dùng
+vào nhắn tin khi đó chúng ta sẽ phải lập trình nên những
+sự kiến để người dùng gõ vào và bấm nút gửi tin nhắn và
+hiển thị tin nhắn thì đây gọi là những sự kiện).
+- Và lập trình hướng sự kiện thường được sử dụng cho các
+ứng dụng chạy thời gian thực vd như: ứng dụng nhắn tin, ứng
+dụng chơi game...
+```
+```js
+NPM là gì?
+
+-> NPM là (Node Package Manager) là 1 module quản lý các thư viện của node js
+
+REPL trong NodeJS là gì?
+
+-> REPL là viết tắt của Read, Eval, Print và Loop là một đặc tính của 
+NodeJS cho phép lập trình viên viết code và chạy trực tiếp trên 
+màn hình shell/console/terminal để debug, kiểm tra code mà không
+cần tạo ra bất cứ file hay folder nào.
+
+Các framework nổi tiếng chạy trên NodeJS
+
+-> NestJS, ExpressJS, KoaJS, ...
+```
+
+-   https://quantrimang.com/cong-nghe/nhung-dieu-can-biet-ve-lap-trinh-huong-su-kien-trong-node-js-199629#google_vignette
+
+-   https://topdev.vn/blog/list-cau-hoi-phong-van-nodejs-developer-hay-va-kho/?utm_source=google&utm_medium=cpc&utm_campaign=topdev&utm_content=performance&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4PhQR1OcIAbz2PQCL8OlTzOmGby_n0FTZywX_iJhTgNTTV__9w-K0BoC9lQQAvD_BwE
+
+-   https://itnavi.com.vn/blog/cau-hoi-phong-van-nodejs
