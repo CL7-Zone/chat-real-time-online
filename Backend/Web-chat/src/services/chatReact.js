@@ -16,6 +16,7 @@ class ChatReactService{
   
   chatService = (io)=>{
 
+      //Life cycle connect -> processing -> disconnect.
       io.on("connection",function (socket) {
 
         console.log("User connected ",socket.id);
