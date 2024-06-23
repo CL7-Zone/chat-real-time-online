@@ -184,3 +184,15 @@ Các framework nổi tiếng chạy trên NodeJS
 -   https://topdev.vn/blog/list-cau-hoi-phong-van-nodejs-developer-hay-va-kho/?utm_source=google&utm_medium=cpc&utm_campaign=topdev&utm_content=performance&gad_source=1&gclid=CjwKCAjwydSzBhBOEiwAj0XN4PhQR1OcIAbz2PQCL8OlTzOmGby_n0FTZywX_iJhTgNTTV__9w-K0BoC9lQQAvD_BwE
 
 -   https://itnavi.com.vn/blog/cau-hoi-phong-van-nodejs
+
+
+### Giới thiệu bản thân - About me
+```js
+- Đầu tiên thì em cảm ơn anh chị hôm nay đã dành thời gian để phỏng vấn em.
+Em xin giới thiệu em tên là Trần Thế Tường năm nay là sinh viên năm 3 trường
+đại học duy tân hôm nay em ở đây phỏng vấn với anh chị với mục là muốn tìm
+kiếm 1 công việc cho riêng mình để phát triển bản thân.
+Và em hy vọng là em sẽ đậu cuộc phỏng vấn ngày hôm nay nếu mà đậu thì em sẽ 
+cố gắng làm việc hết sức để góp phần vào sự phát triển của công ty.
+Em xin hết ạ.
+```
