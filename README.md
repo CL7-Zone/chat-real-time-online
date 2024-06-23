@@ -196,3 +196,4 @@ Và em hy vọng là em sẽ đậu cuộc phỏng vấn ngày hôm nay nếu m�
 cố gắng làm việc hết sức để góp phần vào sự phát triển của công ty.
 Em xin hết ạ.
 ```
+
